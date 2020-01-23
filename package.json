@@ -1,0 +1,17 @@
+{
+  "name": "validador-videos-apostila",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "run": "node index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.19.2",
+    "node-fetch": "^2.6.0",
+    "node-html-parser": "^1.1.18",
+    "parse5": "^5.1.1"
+  }
+}
